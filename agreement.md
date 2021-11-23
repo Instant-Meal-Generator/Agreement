@@ -6,7 +6,9 @@ Problem Domain
 Food Recept generator MVP: Having trouble picking what you want to eat tonight Will pick entree, sides, and drinks for you.
 
 What are the key strengths of each person on the team?
-Cedric - Pitching, Demo, Dom Manipulation, Object Constuctors Aoffee - Javascript, random generation Tiara - CSS David - HTML, Communications How can you best utilize these strengths in the execution of your project? Cedric - problem domain or demo, javascript. David - HTML , problem domain or demo. 
+Cedric - Pitching, Demo, Dom Manipulation, Object Constuctors, David - HTML, Communications. 
+
+How can you best utilize these strengths in the execution of your project? Cedric - problem domain or demo, javascript. David - HTML , problem domain or demo. 
 
 In which professional competencies do you each want to develop greater strength? Cedric - Organizational proficiency David - Working in a team proficiency
 
