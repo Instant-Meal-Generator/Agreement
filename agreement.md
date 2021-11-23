@@ -1,5 +1,6 @@
 Project-Brainstorming
-This Project consists of Cedric Vallieu, Aoife Mulligan, David Stokes, and Tiara Brown.
+
+This Project consists of Cedric Vallieu, David Stokes.
 
 Problem Domain
 Food Recept generator MVP: Having trouble picking what you want to eat tonight Will pick entree, sides, and drinks for you.
