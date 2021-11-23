@@ -3,7 +3,7 @@ Project-Brainstorming
 This Project consists of Cedric Vallieu, David Stokes.
 
 Problem Domain
-Food Recept generator MVP: Having trouble picking what you want to eat tonight Will pick entree, sides, and drinks for you.
+Food Recipe generator MVP: Having trouble picking what you want to eat tonight Will pick entree, sides, and drinks for you.
 
 What are the key strengths of each person on the team?
 Cedric - Pitching, Demo, Dom Manipulation, Object Constuctors, David - HTML, Communications. 
